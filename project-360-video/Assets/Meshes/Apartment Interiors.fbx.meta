@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 730f5e672d5bdb14386dd83b9c0fe735
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_ArtItemsAtlas
+    second: {fileID: 2100000, guid: 20cc94b3993e69c41b6aca277f8f167b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_ArtSupplies
+    second: {fileID: 2100000, guid: cf10912f945a5ab4aa9b19b7eb1f605e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_BathroomTrim
+    second: {fileID: 2100000, guid: f292aeadc3567934e90645133de8bd05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_BedClothA
+    second: {fileID: 2100000, guid: 3f2d21e72116e85408bec1e3293fb0eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_BedClothB
+    second: {fileID: 2100000, guid: 60485cb067b57144c82dd40ef95ea7a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_BlanketA
+    second: {fileID: 2100000, guid: c0e0e354a4e670945a03b16c39ca0428, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_BlanketB
+    second: {fileID: 2100000, guid: 4403931b4a660ef488ad5fc8d63010ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_BooksAtlas
+    second: {fileID: 2100000, guid: 38cd86593bf4aae4daa6945c3cc5083c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_CardboardBoxTrim
+    second: {fileID: 2100000, guid: 79d728d7a6286db439518147fcb111ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_Carpets
+    second: {fileID: 2100000, guid: b7cee7636e499aa4388745a754f65dda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_CeramicRndTilesFlDarkGray
+    second: {fileID: 2100000, guid: 65011ed5b6e3c4d499d3209d6393250a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_CeramicTilesBrightGrayRect
+    second: {fileID: 2100000, guid: 03bbaa686d80c7a4597e7881eb4bdd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_CeramicTilesFlBrightGray
+    second: {fileID: 2100000, guid: 5276b8dd4fc028b4296bffde31005d66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_CeramicTilesFlStoneBright
+    second: {fileID: 2100000, guid: 73ac9e711bd7be840b011c3458e58f0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_ClothTrim
+    second: {fileID: 2100000, guid: 30999e20f57ad884fa5949700f68d1b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_ConcreteWallA
+    second: {fileID: 2100000, guid: d8b7c35cd9e75d74ab17281d54295d73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_Curtain
+    second: {fileID: 2100000, guid: cc47ccca03c449d46b5af862e1060d9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_CurtainShower
+    second: {fileID: 2100000, guid: dee44f4970846714e8af94a0316fb0df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_FabricThrowBlanketA
+    second: {fileID: 2100000, guid: 85f5a23e388bba94b847f6d5ede10ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_FurnitureWoodPolish
+    second: {fileID: 2100000, guid: c912a9853430a3c4580f5fdeb4b032c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_FurnitureWoodRough
+    second: {fileID: 2100000, guid: ff976d3608aebc142aafc2a600f0354e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_FurnitureWoodStructure
+    second: {fileID: 2100000, guid: e4eb75fd99467704692fa283c04c88e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_GraniteBeige
+    second: {fileID: 2100000, guid: 4c049e6d62b14974ea10b8f658367a68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_GraphicsAtlas
+    second: {fileID: 2100000, guid: f574559d9432e3943ab8d543571e45f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_HeadBoard
+    second: {fileID: 2100000, guid: 23f5e5d6d17d55b4cb22a2021954de33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_KitchenAppliances
+    second: {fileID: 2100000, guid: 0535ecf0bbc944644990fee42984f8e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_KitchenAppliancesPlastic
+    second: {fileID: 2100000, guid: e79cfc2cab003244b9ad74fe267861e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_KitchenWareAtlas
+    second: {fileID: 2100000, guid: 75537517067effa4681a34116ba4a4f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_LightPropA
+    second: {fileID: 2100000, guid: ae15b0625cc5c70429b5474d4ab7304e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_LightPropB
+    second: {fileID: 2100000, guid: d675c078683b521469c257ebb4673f31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_LightPropTransl
+    second: {fileID: 2100000, guid: 0b00c969bbd4d0144836e7857b81943f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_MetalTrimA
+    second: {fileID: 2100000, guid: c7ca24db5d7e65040bf848bd6aa38bbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_ParquetFlooringBright
+    second: {fileID: 2100000, guid: d034778f8b5b54343acabbba483a9092, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_PlasticsTrim
+    second: {fileID: 2100000, guid: 92ac3cfab2867e54d90ee3a7ec3559c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_PropsEntertainment
+    second: {fileID: 2100000, guid: 8d68b811b9b1b714685ef19954840bd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_RoomPropsAtlas
+    second: {fileID: 2100000, guid: 54d262921c6250143b231276df6867f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_RoomSetProp1
+    second: {fileID: 2100000, guid: 09efdb7e93416964cb8dc153e84a8c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_ScreenElectronicsAtlas
+    second: {fileID: 2100000, guid: f70c9498a9549f24188dd4456cf4414e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_SofaTrimMaterialA
+    second: {fileID: 2100000, guid: 10405e999953b434dacc6f4985a61817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_SofaTrimMaterialB
+    second: {fileID: 2100000, guid: d5fed00fab3d79e4f85ec6c4f82eda53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_SofaTrimMaterialC
+    second: {fileID: 2100000, guid: 8a9c054628062914e933e134e04f287b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_SoundEqSynth
+    second: {fileID: 2100000, guid: b880a09ee68eeb048a2b3558a732b3e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_SportsEquipment
+    second: {fileID: 2100000, guid: 7d4a275a20f33654ebe73ae7961e5e88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_TeenagerRoomProps
+    second: {fileID: 2100000, guid: c4f9d9738def5914894eb9beb9e62a00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_WallPDark
+    second: {fileID: 2100000, guid: 545c066d27ce9b64e944b5ac1907050b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_WallPTwoColor
+    second: {fileID: 2100000, guid: acc150dfa49e2924a8a2d55e865f7020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_WallPWhite
+    second: {fileID: 2100000, guid: deac1c0898272124cb98f8789444452e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_WallpaperAbstractGeoBlue
+    second: {fileID: 2100000, guid: 708952f02bb9f1445a6ca1d3476a16a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_Washers
+    second: {fileID: 2100000, guid: d9415c092c61d514f9d7935e4625ffff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_WindowGlassTrim
+    second: {fileID: 2100000, guid: 19172272892cec24d84073ace78cab7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_WoodTrimA
+    second: {fileID: 2100000, guid: 1cb952b1d3e8cd54e821532cea38c25f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_WoodTrimB
+    second: {fileID: 2100000, guid: 4f84deb6a04ca3c479c9c22e57d49fea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_WoodTrimC
+    second: {fileID: 2100000, guid: 4ad8fef7ba7a7de44ab3418bffe51ba1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_WoodTrimD
+    second: {fileID: 2100000, guid: 2b84b60db04468449b752924c84fc8f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_API_WoodVarnishePanelsBrownA
+    second: {fileID: 2100000, guid: 97070252c202052438ba9083192a60ce, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
