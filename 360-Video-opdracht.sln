@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "project-360-video", "project-360-video", "{F22195D5-1734-487C-AD55-09BAFC14F445}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{6993C7B7-737B-7E53-ED22-B0B77A109FA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PackageCache", "PackageCache", "{981658D4-5FD1-7131-E19D-F22297CFC73F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "org.khronos.unitygltf@aae262370da5", "org.khronos.unitygltf@aae262370da5", "{F45CD3A5-0682-D59F-E7F3-D86371CCF2A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Runtime", "Runtime", "{2C404C4F-DF42-8E03-FADF-B46CE774D34B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{37A75A49-037B-3739-830D-E41FB1653856}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GLTFSerialization", "GLTFSerialization", "{97221D7A-3F3F-4F47-458E-90B9B0E38423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLTFSerialization", "project-360-video\Library\PackageCache\org.khronos.unitygltf@aae262370da5\Runtime\Plugins\GLTFSerialization\Legacy~\GLTFSerialization.csproj", "{B872A73F-E551-2DE0-4E82-0200A204B67C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B872A73F-E551-2DE0-4E82-0200A204B67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B872A73F-E551-2DE0-4E82-0200A204B67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B872A73F-E551-2DE0-4E82-0200A204B67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B872A73F-E551-2DE0-4E82-0200A204B67C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6993C7B7-737B-7E53-ED22-B0B77A109FA4} = {F22195D5-1734-487C-AD55-09BAFC14F445}
+		{981658D4-5FD1-7131-E19D-F22297CFC73F} = {6993C7B7-737B-7E53-ED22-B0B77A109FA4}
+		{F45CD3A5-0682-D59F-E7F3-D86371CCF2A1} = {981658D4-5FD1-7131-E19D-F22297CFC73F}
+		{2C404C4F-DF42-8E03-FADF-B46CE774D34B} = {F45CD3A5-0682-D59F-E7F3-D86371CCF2A1}
+		{37A75A49-037B-3739-830D-E41FB1653856} = {2C404C4F-DF42-8E03-FADF-B46CE774D34B}
+		{97221D7A-3F3F-4F47-458E-90B9B0E38423} = {37A75A49-037B-3739-830D-E41FB1653856}
+		{B872A73F-E551-2DE0-4E82-0200A204B67C} = {97221D7A-3F3F-4F47-458E-90B9B0E38423}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3188D65D-4038-4846-B550-2905ED88FB10}
+	EndGlobalSection
+EndGlobal
